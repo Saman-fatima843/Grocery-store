@@ -1,0 +1,77 @@
+
+
+
+.top-header{  background:#09bea0ad; } 
+.pl-50{padding-left:5px; color:white; padding-top:14px; }
+.social-icon ul {list-style-type:none; padding-left:170px; }
+.social-icon ul li{display:inline; }
+.social-icon ul li a{ padding:9px; color:white; }
+.social-icon ul li a:hover{ color:#fdb821; font-weight:bolder;}
+i.fa.fa-facebook-official {font-size: 70px;}
+i.fa.fa-whatsapp {font-size: 70px;}
+i.fa.fa-twitter-square {font-size: 70px;}
+i.fa.fa-instagram {font-size: 70px;}
+i.fa.fa-skype {font-size: 70px;}
+i.fa.fa-youtube-play {font-size: 70px;}
+
+
+
+
+.img1 {background-image:url(../images/img2.jpg); height:1300px;  background-attachment:fixed; background-repeat:no-repeat;}
+.color1 {background-color:#8080809e; height:1300px; }
+.login-form {background-color:#09bea0ad; border:.5px solid #fff; border-radius:10px; box-shadow:0px 0px 10px #000;  box-sizing:border-box; padding-top:28px; padding-bottom:6%; text-align:center; margin-top:100px; margin-left:220px; padding-left:113px; padding-right:120px; }
+.login-header { color:white; text-align:center; font-size:300%; margin-bottom:40px; margin-left:10px; }
+.login-header h1:before {content: ''; position: absolute; background-color:white; width: 60px; height: 3px; margin-top: 58px; left: 733px;}
+.login-form p {color:white; margin-left:63px; }
+.login-form p:before{content: ''; position: absolute; background-color: white; width:712px; height: 1px; margin-top: 39px; left: 410px;}
+.login-form h4 { text-align:left; margin-left:-25px; color:white; font-weight:bolder; margin-top:15px;}
+.login-form h3 {text-align:left; margin-left:74px; color:white; font-weight:bolder; margin-top:15px;}	
+.login-form input[type="text"] {width: 80%;line-height:42px;font-family:'Ubuntu',sans-serif;border-radius:25px;border:2px solid #f2f2f2;padding-left:10px;margin-left:-144px;margin-bottom:5px;margin-top:4px; background: white; }
+.login-form input[type="password"]{ width: 80%; line-height:42px; font-family: 'Ubuntu', sans-serif; border-radius:25px; border:2px solid #f2f2f2; padding-left:10px; margin-left:40px; margin-top:4px;      background: white;}
+.form {margin-top:70px;}
+.icons i{margin-top:65px; font-size:30px; color:#fdb821;}
+.login-form h5 {color:white;}
+.text1 i{color:#fdb821; padding-right:12px;}
+.text1 {color: white; margin-top: 28px; margin-bottom: -21px; }
+.btn-1 a {background:white; text-decoration:none; font-weight:600; transition:0.5s;  color:grey; padding:10px; border-radius:7px; padding-left:36px; padding-right:36px; box-shadow:0px 0px 10px #000;}
+.btn-1 a:hover{background:#808080a1; transiton:0.5s; color:white; font-weight:bolder; }
+.btn-1{margin-top:53px; }
+
+
+
+.color2 {background-color:#035f50; height:490px; margin-top:-60px; }
+.logo-footer {padding-top:80px; margin-left: -34px;}
+.text3 {color:#848484; font-size:17px; font-weight:400; margin-left:-35px; width:115%; padding-top:30px; }
+.postinfo2 {margin-left:55px;}
+.postinfo2 ul {list-style-type:none; }
+.icon1 i{color:#fdb821; font-size:22px; margin-top:31px; margin-left:-75px;}
+.icon1 p {color:#848484; margin-top:-36px; margin-left:-47px; font-size:17px; font-weight:400;}	   
+.icon2 i{color:#fdb821; font-size:22px; margin-top:-8px; margin-left:-75px;}
+.icon2 p {color:#848484; margin-top:-36px; margin-left:-45px; width:100%; font-size:17px; font-weight:400;}	
+.icon3 i{color:#fdb821; font-size:22px; margin-top:-8px; margin-left:-75px;}
+.icon3 p {color:#848484; margin-top:-36px; margin-left:-45px; font-size:17px; font-weight:400;}	
+.icon1 {padding-top:6px;}  
+.icon2 {padding-top:14px;}
+.icon3 {padding-top:12px;}
+.footer-head1 h2{font-size:26px; font-weight:600; color:#FFFFFF; padding-top:90px; margin-left:22px; border-bottom:solid; border-bottom-color:rgb(255 255 255 / 6%); border-bottom-width:1px; padding-bottom:29px;}	
+.footer-head1 h2:before {content:''; position:absolute; background-color:#fdb821; margin-top:60px; width:65px; height:1px;}   
+.usefull-links ul{list-style-type:none; margin-top:31px; margin-left:-18px;}
+.usefull-links ul li {padding:5px;}
+.usefull-links ul li a {color:#848484; font-size:17px;}
+.usefull-links ul li a:hover{text-decoration:none; color:#FFFFFF; transition:0.4s;}
+.footer-head2 h2{font-size:26px; font-weight:600; color:#FFFFFF; padding-top:90px; margin-left:22px; border-bottom:solid; border-bottom-color:rgb(255 255 255 / 6%); border-bottom-width:1px; padding-bottom:29px;}	
+.footer-head2 h2:before {content:''; position:absolute; background-color:#fdb821; margin-top:60px; width:65px; height:1px;}
+.latest-news2 ul {list-style-type:none; margin-left:-19px; margin-top:35px;}
+.latest-news2 ul li{position:relative; padding-bottom:15px; margin-bottom:15px; border-bottom:solid; border-bottom-color:rgb(255 255 255 / 6%); border-bottom-width:1px;}
+.latest-news2 ul li p { color:#848484; font-size:17px;}
+.latest-news2 ul li h5 {color:#fff; font-size:17px; width:115%; font-weight:400;}
+.latest-news2 ul li:last-child {border-bottom:0px;}
+.footer-head3 h2{font-size:26px; font-weight:600; color:#FFFFFF; padding-top:90px; margin-left:22px; border-bottom:solid; border-bottom-color:rgb(255 255 255 / 6%); border-bottom-width:1px; padding-bottom:29px;}	
+.footer-head3 h2:before {content:''; position:absolute; background-color:#fdb821; margin-top:60px; width:65px; height:1px;}
+.working-hours ul {list-style-type:none; margin-left:-19px; margin-top:35px; width:135%;}
+.working-hours ul li { font-size:17px; color:#848484; padding:4px;}
+.closed-color {margin-top:-25px; color:#fdb821; margin-left:226px;}
+.discount h4{color:#fff; font-size:22px; font-weight:400; margin-left:32px; margin-top:12px;}
+.discount span{color:#fdb821; font-size:36px;}
+.discount p{color:#fdb821; margin-left:65px; margin-bottom:-6px;}
+.discount {border:dashed; border-color:#353e45; border-width:2px; padding-bottom:27px; margin-left:25px; margin-right:-45px; margin-top:28px;}
